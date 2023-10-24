@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79e595c0-70b0-458b-9323-4595e23cfb70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/teachers/templates/teach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/emobilis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/emobilis/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/emobilis/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/emobilis/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/emobilis/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emobilis/teachers/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/students/templates/fees.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/students/templates/fees.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/students/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/students/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/students/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/School/students/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/teachers/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/School/teachers/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/teachers/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/School/teachers/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MY PROJECTS/my-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../MY PROJECTS/my-website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MY PROJECTS/my-website/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../MY PROJECTS/my-website/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/.idea/Web Development Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web Development Class/.idea/Web Development Class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web Development Class/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web Development Class/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/Web Development Class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/Images/question.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/penguin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/select.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/tables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web Development Class/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web Development Class/Web-development-" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2XDkOG3RSVNKEWSgfZelqXgXR04" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/user/Desktop/Assignments/Django Intro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Django Intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79e595c0-70b0-458b-9323-4595e23cfb70" name="Changes" comment="" />
+      <created>1698171008056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698171008056</updated>
+      <workItem from="1698171017661" duration="6221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
